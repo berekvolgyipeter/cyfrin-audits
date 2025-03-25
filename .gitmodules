@@ -1,0 +1,12 @@
+[submodule "external-resources/weird-erc20"]
+	path = external-resources/weird-erc20
+	url = https://github.com/d-xo/weird-erc20.git
+[submodule "external-resources/sc-exploits-minimized"]
+	path = external-resources/sc-exploits-minimized
+	url = https://github.com/Cyfrin/sc-exploits-minimized.git
+[submodule "external-resources/advanced-defi-2024"]
+	path = external-resources/advanced-defi-2024
+	url = https://github.com/Cyfrin/advanced-defi-2024.git
+[submodule "external-resources/simple-security-toolkit"]
+	path = external-resources/simple-security-toolkit
+	url = https://github.com/nascentxyz/simple-security-toolkit.git
