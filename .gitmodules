@@ -10,3 +10,6 @@
 [submodule "external-resources/simple-security-toolkit"]
 	path = external-resources/simple-security-toolkit
 	url = https://github.com/nascentxyz/simple-security-toolkit.git
+[submodule "external-resources/audit-report-templating"]
+	path = external-resources/audit-report-templating
+	url = https://github.com/Cyfrin/audit-report-templating.git
