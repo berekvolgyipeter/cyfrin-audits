@@ -13,3 +13,6 @@
 [submodule "external-resources/audit-report-templating"]
 	path = external-resources/audit-report-templating
 	url = https://github.com/Cyfrin/audit-report-templating.git
+[submodule "1-passwordstore/cyfrin-audit-passwordstore"]
+	path = 1-passwordstore/cyfrin-audit-passwordstore
+	url = https://github.com/berekvolgyipeter/cyfrin-audit-passwordstore.git
