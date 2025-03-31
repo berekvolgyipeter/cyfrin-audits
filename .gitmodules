@@ -16,3 +16,8 @@
 [submodule "1-passwordstore/cyfrin-audit-passwordstore"]
 	path = 1-passwordstore/cyfrin-audit-passwordstore
 	url = https://github.com/berekvolgyipeter/cyfrin-audit-passwordstore.git
+	branch = audit
+[submodule "3-t-swap/cyfrin-audit-t-swap"]
+	path = 3-t-swap/cyfrin-audit-t-swap
+	url = https://github.com/berekvolgyipeter/cyfrin-audit-t-swap.git
+	branch = audit-data
