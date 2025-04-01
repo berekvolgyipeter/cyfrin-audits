@@ -15,7 +15,7 @@
 	url = https://github.com/Cyfrin/audit-report-templating.git
 [submodule "1-passwordstore/cyfrin-audit-passwordstore"]
 	path = 1-passwordstore/cyfrin-audit-passwordstore
-	url = https://github.com/berekvolgyipeter/cyfrin-audit-passwordstore.git
+	url = https://github.com/berekvolgyipeter/cyfrin-audit-passwordstore
 	branch = audit
 [submodule "3-t-swap/cyfrin-audit-t-swap"]
 	path = 3-t-swap/cyfrin-audit-t-swap
